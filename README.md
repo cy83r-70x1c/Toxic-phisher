@@ -31,7 +31,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/cy83r-70x1c/Toxic-phisher
+$ git clone https://github.com/cy83r-70x1c/Toxic-phisher.git
 ```
 
 - Change to cloned directory and run `toxicphisher.sh` -
