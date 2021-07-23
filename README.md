@@ -40,7 +40,7 @@ $ cd Toxic-phisher
 $ bash toxicphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Toxic-phisher` is installed.
 
 
 ### Dependencies
