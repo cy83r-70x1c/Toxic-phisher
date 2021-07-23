@@ -1,2 +1,2 @@
-# 70x1c-phishing-
+# 70x1c-phishing
 Phishing attack 
